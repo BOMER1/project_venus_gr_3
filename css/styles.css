@@ -94,9 +94,6 @@ header{
 .slider{
     margin-top: 80px;
 }
-
-
-
 /*------------------------------------------------------------------------slider---------------------------------------------------*/
 .slider-content-item{
     height: 87vh;
@@ -104,7 +101,6 @@ header{
    background-color: #212b36;
     overflow: hidden;
     display: none;
-    
 }
 .slider-content-item.active {
     display: flex;
